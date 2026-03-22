@@ -1,6 +1,6 @@
 # CI-V-to-BCD-with-ESP32
 CI-V to BCD with ESP32<br>
-Should work with all CI-V Adresses,<br>
+Should work with all CI-V Adresses, hard coded to 9600bd<br>
 If PTT connected it will block switching BCD at state pulled to GND<br>
 
 160m goes 1<br>
@@ -16,3 +16,4 @@ If PTT connected it will block switching BCD at state pulled to GND<br>
 2m goes 11<br>
 70cm goes 12<br>
 4m and 60m goes 15, (some Yaesu devices goes 1111 at 60m some at 4m)<br>
+Working: https://www.youtube.com/watch?v=KY4-MWb2qr8
